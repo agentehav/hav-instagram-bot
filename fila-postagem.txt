@@ -2,7 +2,7 @@ FILA DE POSTAGEM — Hospital Amigo Veterinário (1x/dia, 18h)
 Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 
 1. calor-insolacao [POSTADO]
-2. mitos-alimentacao
+2. mitos-alimentacao [POSTADO]
 3. carrapatos-pulgas
 4. saude-bucal
 5. pet-idoso
