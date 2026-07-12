@@ -2,8 +2,8 @@ name: Postar Instagram HAV
 
 on:
   workflow_dispatch: {}
-  # schedule:
-  #   - cron: "0 21 * * *"  # 18h horario de Brasilia (UTC-3) -- ativar so apos teste manual OK
+  schedule:
+    - cron: "0 21 * * *"  # 18h horario de Brasilia (UTC-3)
 
 permissions:
   contents: write
