@@ -3,19 +3,19 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 
 1. calor-insolacao [POSTADO]
 2. mitos-alimentacao [POSTADO]
-3. cirurgia-veterinaria
-4. atendimento-24h
-5. checkup-preventivo
-6. exame-laboratorial
-7. internacao-veterinaria
-8. pet-idoso
-9. saude-bucal
-10. vermifugacao
-11. mudancas-comportamento
-12. tosse-dificuldade-respiratoria
-13. alimentacao-adequada
-14. coceira
-15. carrossel-sinais-dor-pet
+3. carrossel-sinais-dor-pet
+4. cirurgia-veterinaria
+5. atendimento-24h
+6. checkup-preventivo
+7. exame-laboratorial
+8. internacao-veterinaria
+9. pet-idoso
+10. saude-bucal
+11. vermifugacao
+12. mudancas-comportamento
+13. tosse-dificuldade-respiratoria
+14. alimentacao-adequada
+15. coceira
 16. carrossel-castracao-beneficios
 17. carrossel-obesidade-pets
 18. carrossel-intoxicacao
