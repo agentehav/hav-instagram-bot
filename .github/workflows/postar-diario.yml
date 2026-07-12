@@ -30,6 +30,6 @@ jobs:
         run: |
           git config user.name "hav-instagram-bot"
           git config user.email "actions@github.com"
-          git add fila-postagem.txt
+          git add fila-postagem.txt ultimo_post.txt
           git diff --staged --quiet || git commit -m "chore: marca post como publicado"
           git push

@@ -11,6 +11,7 @@ import os
 import re
 import sys
 import time
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -18,10 +19,26 @@ import requests
 ROOT = Path(__file__).resolve().parent
 POSTS_DIR = ROOT / "posts"
 FILA_PATH = ROOT / "fila-postagem.txt"
+ULTIMO_POST_PATH = ROOT / "ultimo_post.txt"
 
 GRAPH_VERSION = "v21.0"
 REPO = "agentehav/hav-instagram-bot"
 BRANCH = "main"
+BRASILIA = timezone(timedelta(hours=-3))
+
+
+def hoje_brasilia() -> str:
+    return datetime.now(BRASILIA).date().isoformat()
+
+
+def ja_postou_hoje() -> bool:
+    if not ULTIMO_POST_PATH.exists():
+        return False
+    return ULTIMO_POST_PATH.read_text(encoding="utf-8").strip() == hoje_brasilia()
+
+
+def marcar_data_post() -> None:
+    ULTIMO_POST_PATH.write_text(hoje_brasilia() + "\n", encoding="utf-8")
 
 
 def carregar_credenciais() -> tuple[str, str]:
@@ -104,6 +121,10 @@ def marcar_postado(nome_post: str) -> None:
 
 
 def main() -> None:
+    if ja_postou_hoje():
+        print(f"Ja postou hoje ({hoje_brasilia()}). Pulando pra evitar post duplicado no dia.")
+        return
+
     token, business_id = carregar_credenciais()
 
     nome_post = proximo_da_fila()
@@ -134,6 +155,7 @@ def main() -> None:
     print(f"OK: publicado, id {post_id}")
 
     marcar_postado(nome_post)
+    marcar_data_post()
     print(f"Fila atualizada: {nome_post} [POSTADO]")
 
 
