@@ -1,0 +1,35 @@
+name: Postar Instagram HAV
+
+on:
+  workflow_dispatch: {}
+  # schedule:
+  #   - cron: "0 21 * * *"  # 18h horario de Brasilia (UTC-3) -- ativar so apos teste manual OK
+
+permissions:
+  contents: write
+
+jobs:
+  postar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Postar proximo da fila
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_BUSINESS_ID: ${{ secrets.IG_BUSINESS_ID }}
+        run: python postar_instagram.py
+
+      - name: Commitar fila atualizada
+        run: |
+          git config user.name "hav-instagram-bot"
+          git config user.email "actions@github.com"
+          git add fila-postagem.txt
+          git diff --staged --quiet || git commit -m "chore: marca post como publicado"
+          git push
