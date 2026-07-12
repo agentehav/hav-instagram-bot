@@ -20,6 +20,8 @@ POSTS_DIR = ROOT / "posts"
 FILA_PATH = ROOT / "fila-postagem.txt"
 
 GRAPH_VERSION = "v21.0"
+REPO = "agentehav/hav-instagram-bot"
+BRANCH = "main"
 
 
 def carregar_credenciais() -> tuple[str, str]:
@@ -47,18 +49,8 @@ def encontrar_arquivos(nome_post: str) -> tuple[Path, Path] | None:
     return imagens[-1], legendas[-1]
 
 
-def subir_catbox(caminho_imagem: Path) -> str:
-    with open(caminho_imagem, "rb") as f:
-        resp = requests.post(
-            "https://catbox.moe/user/api.php",
-            data={"reqtype": "fileupload"},
-            files={"fileToUpload": f},
-        )
-    resp.raise_for_status()
-    url = resp.text.strip()
-    if not url.startswith("http"):
-        raise SystemExit(f"Falha no upload catbox: {url}")
-    return url
+def url_imagem_publica(caminho_imagem: Path) -> str:
+    return f"https://raw.githubusercontent.com/{REPO}/{BRANCH}/posts/{caminho_imagem.name}"
 
 
 def criar_media_container(image_url: str, legenda: str, token: str, business_id: str) -> str:
@@ -127,9 +119,8 @@ def main() -> None:
     caminho_imagem, caminho_legenda = arquivos
     legenda = caminho_legenda.read_text(encoding="utf-8").strip()
 
-    print(f"Subindo imagem pro catbox: {caminho_imagem.name}")
-    image_url = subir_catbox(caminho_imagem)
-    print(f"OK: {image_url}")
+    image_url = url_imagem_publica(caminho_imagem)
+    print(f"Imagem: {image_url}")
 
     print("Criando media container na Graph API...")
     container_id = criar_media_container(image_url, legenda, token, business_id)
