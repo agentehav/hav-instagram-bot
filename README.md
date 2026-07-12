@@ -37,6 +37,8 @@ gh secret set IG_ACCESS_TOKEN --body "NOVO_TOKEN_AQUI" --repo agentehav/hav-inst
 
 ## Como adicionar novos posts na fila
 
+### Imagem única
+
 1. Gerar a imagem (ver `Scripts/gerar_imagem.py` no projeto principal
    "Agente HAV", pasta fora deste repo) ou criar manualmente.
 2. Colocar a imagem `.png` e a legenda `.txt` dentro da pasta `posts/` deste
@@ -53,6 +55,23 @@ gh secret set IG_ACCESS_TOKEN --body "NOVO_TOKEN_AQUI" --repo agentehav/hav-inst
    git commit -m "add: novo post nome-do-post"
    git push
    ```
+
+### Carrossel (várias imagens no mesmo post)
+
+1. Criar uma pasta dentro de `posts/` com o nome do post:
+   `posts/nome-do-post/`
+2. Colocar as imagens numeradas dentro, na ordem que devem aparecer:
+   `1.png`, `2.png`, `3.png`, ... (entre 2 e 10 imagens — limite do
+   Instagram).
+3. Colocar a legenda em `posts/nome-do-post/legenda.txt` (um arquivo só,
+   vale pro carrossel inteiro).
+4. Adicionar a mesma linha de sempre em `fila-postagem.txt`:
+   ```
+   13. nome-do-post
+   ```
+   O robô detecta sozinho que é carrossel (é uma pasta, não um arquivo
+   `post-nome-do-post.png`) e publica todas as imagens juntas.
+5. Commitar e dar push normalmente.
 
 ## Como rodar manualmente (sem esperar o horário)
 
