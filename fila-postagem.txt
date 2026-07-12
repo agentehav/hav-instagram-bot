@@ -4,16 +4,24 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 1. calor-insolacao [POSTADO]
 2. mitos-alimentacao [POSTADO]
 3. carrapatos-pulgas
-4. saude-bucal
-5. pet-idoso
+4. saude-bucal-novo
+5. pet-idoso-novo
 6. obesidade-pet
 7. checkup-anual
-8. primeiros-socorros
-9. castracao-mitos
-10. ansiedade-separacao
-11. plantas-toxicas
-12. 3-sinais-alerta (imagem: post-modelo_3-sinais-alerta.png)
+8. checkup-preventivo
+9. exame-laboratorial
+10. internacao-veterinaria
+11. atendimento-24h
+12. plantas-toxicas
 
 PENDENTES (sem imagem, não entram na fila ainda):
-- adocao-responsavel
 - bastidores-equipe
+- castracao-mitos
+- primeiros-socorros
+
+FORA DA FILA (substituídos ou incompletos):
+- saude-bucal (antigo, substituído por saude-bucal-novo)
+- pet-idoso (antigo, substituído por pet-idoso-novo)
+- dor-em-gatos (pronto, deixado de fora por decisão)
+- vacinacao-filhotes (pronto, deixado de fora por decisão)
+- modelo_3-sinais-alerta (imagem sem legenda, precisa escrever legenda nova pra usar)
