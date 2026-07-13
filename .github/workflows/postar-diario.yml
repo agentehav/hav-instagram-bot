@@ -3,7 +3,15 @@ name: Postar Instagram HAV
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "0 21 * * *"  # 18h horario de Brasilia (UTC-3)
+    # Horarios "redondos" (ex: 21:00 UTC) sofrem fila/atraso maior no GitHub
+    # Actions por concentrarem gatilhos de varios repositorios. Por isso o
+    # horario alvo (18h Brasilia = 21:00 UTC) usa minuto deslocado, e ha
+    # duas tentativas de reforco depois. O script so publica 1x/dia
+    # (ja_postou_hoje), entao rodar de novo mais tarde e seguro: se o
+    # primeiro disparo ja publicou, os seguintes so pulam sem fazer nada.
+    - cron: "7 21 * * *"   # ~18h07 Brasilia - tentativa principal
+    - cron: "37 21 * * *"  # ~18h37 Brasilia - reforco 1
+    - cron: "22 22 * * *"  # ~19h22 Brasilia - reforco 2
 
 permissions:
   contents: write
