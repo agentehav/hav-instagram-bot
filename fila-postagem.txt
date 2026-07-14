@@ -3,7 +3,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 
 1. calor-insolacao [POSTADO]
 2. mitos-alimentacao [POSTADO]
-3. carrossel-sinais-dor-pet
+3. carrossel-sinais-dor-pet [POSTADO]
 4. cirurgia-veterinaria
 5. atendimento-24h
 6. checkup-preventivo
