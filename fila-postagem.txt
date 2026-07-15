@@ -5,7 +5,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 2. mitos-alimentacao [POSTADO]
 3. carrossel-sinais-dor-pet [POSTADO]
 4. cirurgia-veterinaria [POSTADO]
-5. atendimento-24h
+5. atendimento-24h [POSTADO]
 6. checkup-preventivo
 7. exame-laboratorial
 8. internacao-veterinaria
