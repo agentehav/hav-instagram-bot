@@ -8,7 +8,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 5. atendimento-24h [POSTADO]
 6. checkup-preventivo [POSTADO]
 7. exame-laboratorial [POSTADO]
-8. internacao-veterinaria
+8. internacao-veterinaria [POSTADO]
 9. pet-idoso
 10. saude-bucal
 11. vermifugacao
