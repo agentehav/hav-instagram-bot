@@ -9,7 +9,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 6. checkup-preventivo [POSTADO]
 7. exame-laboratorial [POSTADO]
 8. internacao-veterinaria [POSTADO]
-9. pet-idoso
+9. pet-idoso [POSTADO]
 10. saude-bucal
 11. vermifugacao
 12. mudancas-comportamento
