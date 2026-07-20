@@ -10,7 +10,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 7. exame-laboratorial [POSTADO]
 8. internacao-veterinaria [POSTADO]
 9. pet-idoso [POSTADO]
-10. saude-bucal
+10. saude-bucal [POSTADO]
 11. vermifugacao
 12. mudancas-comportamento
 13. tosse-dificuldade-respiratoria
