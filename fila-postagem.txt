@@ -12,7 +12,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 9. pet-idoso [POSTADO]
 10. saude-bucal [POSTADO]
 11. vermifugacao [POSTADO]
-12. mudancas-comportamento
+12. mudancas-comportamento [POSTADO]
 13. tosse-dificuldade-respiratoria
 14. alimentacao-adequada
 15. coceira
