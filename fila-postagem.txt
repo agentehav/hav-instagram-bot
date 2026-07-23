@@ -13,7 +13,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 10. saude-bucal [POSTADO]
 11. vermifugacao [POSTADO]
 12. mudancas-comportamento [POSTADO]
-13. tosse-dificuldade-respiratoria
+13. tosse-dificuldade-respiratoria [POSTADO]
 14. alimentacao-adequada
 15. coceira
 16. carrossel-castracao-beneficios
