@@ -16,6 +16,6 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 13. tosse-dificuldade-respiratoria [POSTADO]
 14. alimentacao-adequada [POSTADO]
 15. coceira [POSTADO]
-16. carrossel-castracao-beneficios
+16. carrossel-castracao-beneficios [POSTADO]
 17. carrossel-obesidade-pets
 18. carrossel-intoxicacao
