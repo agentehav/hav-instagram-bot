@@ -18,4 +18,4 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 15. coceira [POSTADO]
 16. carrossel-castracao-beneficios [POSTADO]
 17. carrossel-obesidade-pets [POSTADO]
-18. carrossel-intoxicacao
+18. carrossel-intoxicacao [POSTADO]
