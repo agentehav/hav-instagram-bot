@@ -19,7 +19,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 16. carrossel-castracao-beneficios [POSTADO]
 17. carrossel-obesidade-pets [POSTADO]
 18. carrossel-intoxicacao [POSTADO]
-19. anestesia-pet-idoso
+19. anestesia-pet-idoso [POSTADO]
 20. sarna-alergia
 21. castracao
 22. engasgo
