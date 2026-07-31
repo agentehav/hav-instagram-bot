@@ -20,7 +20,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 17. carrossel-obesidade-pets [POSTADO]
 18. carrossel-intoxicacao [POSTADO]
 19. anestesia-pet-idoso [POSTADO]
-20. sarna-alergia
+20. sarna-alergia [POSTADO]
 21. castracao
 22. engasgo
 23. enriquecer-ambiente-gatos
