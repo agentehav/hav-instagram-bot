@@ -21,7 +21,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 18. carrossel-intoxicacao [POSTADO]
 19. anestesia-pet-idoso [POSTADO]
 20. sarna-alergia [POSTADO]
-21. castracao
+21. castracao [POSTADO]
 22. engasgo
 23. enriquecer-ambiente-gatos
 24. recuperacao-pos-cirurgica
