@@ -22,7 +22,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 19. anestesia-pet-idoso [POSTADO]
 20. sarna-alergia [POSTADO]
 21. castracao [POSTADO]
-22. engasgo
+22. engasgo [POSTADO]
 23. enriquecer-ambiente-gatos
 24. recuperacao-pos-cirurgica
 25. vermifugacao-filhotes-adultos
