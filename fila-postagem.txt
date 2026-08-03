@@ -23,7 +23,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 20. sarna-alergia [POSTADO]
 21. castracao [POSTADO]
 22. engasgo [POSTADO]
-23. enriquecer-ambiente-gatos
+23. enriquecer-ambiente-gatos [POSTADO]
 24. recuperacao-pos-cirurgica
 25. vermifugacao-filhotes-adultos
 26. plantas-domesticas
