@@ -29,3 +29,11 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 26. plantas-domesticas
 27. vacina-gripe-canina
 28. vacinacao-filhote
+29. ansiedade-separacao
+30. carrapato-inverno
+31. emergencia-pode-esperar
+32. estresse-gatos
+33. otite-orelha-caida
+34. picada-escorpiao-cobra
+35. socializacao-filhote
+36. vacina-felino
