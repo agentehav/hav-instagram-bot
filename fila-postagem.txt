@@ -25,7 +25,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 22. engasgo [POSTADO]
 23. enriquecer-ambiente-gatos [POSTADO]
 24. recuperacao-pos-cirurgica [POSTADO]
-25. vermifugacao-filhotes-adultos
+25. vermifugacao-filhotes-adultos [POSTADO]
 26. plantas-domesticas
 27. vacina-gripe-canina
 28. vacinacao-filhote
