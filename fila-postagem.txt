@@ -27,7 +27,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 24. recuperacao-pos-cirurgica [POSTADO]
 25. vermifugacao-filhotes-adultos [POSTADO]
 26. plantas-domesticas [POSTADO]
-27. vacina-gripe-canina
+27. vacina-gripe-canina [POSTADO]
 28. vacinacao-filhote
 29. ansiedade-separacao
 30. carrapato-inverno
