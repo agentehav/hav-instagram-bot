@@ -28,7 +28,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 25. vermifugacao-filhotes-adultos [POSTADO]
 26. plantas-domesticas [POSTADO]
 27. vacina-gripe-canina [POSTADO]
-28. vacinacao-filhote
+28. vacinacao-filhote [POSTADO]
 29. ansiedade-separacao
 30. carrapato-inverno
 31. emergencia-pode-esperar
