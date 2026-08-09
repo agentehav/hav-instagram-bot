@@ -29,7 +29,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 26. plantas-domesticas [POSTADO]
 27. vacina-gripe-canina [POSTADO]
 28. vacinacao-filhote [POSTADO]
-29. ansiedade-separacao
+29. ansiedade-separacao [POSTADO]
 30. carrapato-inverno
 31. emergencia-pode-esperar
 32. estresse-gatos
