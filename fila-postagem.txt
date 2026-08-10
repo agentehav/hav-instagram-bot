@@ -30,7 +30,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 27. vacina-gripe-canina [POSTADO]
 28. vacinacao-filhote [POSTADO]
 29. ansiedade-separacao [POSTADO]
-30. carrapato-inverno
+30. carrapato-inverno [POSTADO]
 31. emergencia-pode-esperar
 32. estresse-gatos
 33. otite-orelha-caida
