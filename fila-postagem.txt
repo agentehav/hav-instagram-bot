@@ -32,7 +32,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 29. ansiedade-separacao [POSTADO]
 30. carrapato-inverno [POSTADO]
 31. emergencia-pode-esperar [POSTADO]
-32. estresse-gatos
+32. estresse-gatos [POSTADO]
 33. otite-orelha-caida
 34. picada-escorpiao-cobra
 35. socializacao-filhote
