@@ -33,7 +33,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 30. carrapato-inverno [POSTADO]
 31. emergencia-pode-esperar [POSTADO]
 32. estresse-gatos [POSTADO]
-33. otite-orelha-caida
+33. otite-orelha-caida [POSTADO]
 34. picada-escorpiao-cobra
 35. socializacao-filhote
 36. vacina-felino
