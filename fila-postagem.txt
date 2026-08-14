@@ -34,6 +34,6 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 31. emergencia-pode-esperar [POSTADO]
 32. estresse-gatos [POSTADO]
 33. otite-orelha-caida [POSTADO]
-34. picada-escorpiao-cobra
+34. picada-escorpiao-cobra [POSTADO]
 35. socializacao-filhote
 36. vacina-felino
