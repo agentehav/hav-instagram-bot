@@ -35,5 +35,5 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 32. estresse-gatos [POSTADO]
 33. otite-orelha-caida [POSTADO]
 34. picada-escorpiao-cobra [POSTADO]
-35. socializacao-filhote
+35. socializacao-filhote [POSTADO]
 36. vacina-felino
