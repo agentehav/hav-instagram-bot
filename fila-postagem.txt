@@ -36,4 +36,4 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 33. otite-orelha-caida [POSTADO]
 34. picada-escorpiao-cobra [POSTADO]
 35. socializacao-filhote [POSTADO]
-36. vacina-felino
+36. vacina-felino [POSTADO]
