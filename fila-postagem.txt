@@ -1,7 +1,7 @@
 FILA DE POSTAGEM — Hospital Amigo Veterinário (1x/dia, 18h)
 Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 
-1. checklist-filhote
+1. checklist-filhote [POSTADO]
 2. cirurgia-urgencia-eletiva
 3. exame-pre-anestesico
 4. gato-idoso
