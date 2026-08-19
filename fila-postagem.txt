@@ -1,39 +1,11 @@
 FILA DE POSTAGEM — Hospital Amigo Veterinário (1x/dia, 18h)
 Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 
-1. calor-insolacao [POSTADO]
-2. mitos-alimentacao [POSTADO]
-3. carrossel-sinais-dor-pet [POSTADO]
-4. cirurgia-veterinaria [POSTADO]
-5. atendimento-24h [POSTADO]
-6. checkup-preventivo [POSTADO]
-7. exame-laboratorial [POSTADO]
-8. internacao-veterinaria [POSTADO]
-9. pet-idoso [POSTADO]
-10. saude-bucal [POSTADO]
-11. vermifugacao [POSTADO]
-12. mudancas-comportamento [POSTADO]
-13. tosse-dificuldade-respiratoria [POSTADO]
-14. alimentacao-adequada [POSTADO]
-15. coceira [POSTADO]
-16. carrossel-castracao-beneficios [POSTADO]
-17. carrossel-obesidade-pets [POSTADO]
-18. carrossel-intoxicacao [POSTADO]
-19. anestesia-pet-idoso [POSTADO]
-20. sarna-alergia [POSTADO]
-21. castracao [POSTADO]
-22. engasgo [POSTADO]
-23. enriquecer-ambiente-gatos [POSTADO]
-24. recuperacao-pos-cirurgica [POSTADO]
-25. vermifugacao-filhotes-adultos [POSTADO]
-26. plantas-domesticas [POSTADO]
-27. vacina-gripe-canina [POSTADO]
-28. vacinacao-filhote [POSTADO]
-29. ansiedade-separacao [POSTADO]
-30. carrapato-inverno [POSTADO]
-31. emergencia-pode-esperar [POSTADO]
-32. estresse-gatos [POSTADO]
-33. otite-orelha-caida [POSTADO]
-34. picada-escorpiao-cobra [POSTADO]
-35. socializacao-filhote [POSTADO]
-36. vacina-felino [POSTADO]
+1. checklist-filhote
+2. cirurgia-urgencia-eletiva
+3. exame-pre-anestesico
+4. gato-idoso
+5. hemograma-rotina
+6. obesidade
+7. racao-premium-x-economica
+8. ultrassom-x-raio-x
