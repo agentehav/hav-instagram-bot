@@ -4,7 +4,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 1. checklist-filhote [POSTADO]
 2. cirurgia-urgencia-eletiva [POSTADO]
 3. exame-pre-anestesico [POSTADO]
-4. gato-idoso
+4. gato-idoso [POSTADO]
 5. hemograma-rotina
 6. obesidade
 7. racao-premium-x-economica
