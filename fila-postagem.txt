@@ -5,7 +5,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 2. cirurgia-urgencia-eletiva [POSTADO]
 3. exame-pre-anestesico [POSTADO]
 4. gato-idoso [POSTADO]
-5. hemograma-rotina
+5. hemograma-rotina [POSTADO]
 6. obesidade
 7. racao-premium-x-economica
 8. ultrassom-x-raio-x
