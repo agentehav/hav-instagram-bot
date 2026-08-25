@@ -7,5 +7,5 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 4. gato-idoso [POSTADO]
 5. hemograma-rotina [POSTADO]
 6. obesidade [POSTADO]
-7. racao-premium-x-economica
+7. racao-premium-x-economica [POSTADO]
 8. ultrassom-x-raio-x
