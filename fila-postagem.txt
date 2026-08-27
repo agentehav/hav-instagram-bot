@@ -9,3 +9,23 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 6. obesidade [POSTADO]
 7. racao-premium-x-economica [POSTADO]
 8. ultrassom-x-raio-x [POSTADO]
+9. ansiedade-separacao
+10. carrapato-inverno
+11. emergencia-pode-esperar
+12. estresse-gatos
+13. otite-orelha-caida
+14. picada-escorpiao-cobra
+15. plantas-domesticas
+16. recuperacao-pos-cirurgica
+17. socializacao-filhote
+18. vacina-felino
+19. vacina-gripe-canina
+20. vacinacao-filhote
+21. vermifugacao-filhotes-adultos
+22. alimentos-toxicos
+23. braquicefalico-calor
+24. dermatite-atopica
+25. gestacao-parto
+26. golpe-calor-carro
+27. troca-racao
+28. carrossel-mitos-vacina
