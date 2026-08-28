@@ -9,7 +9,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 6. obesidade [POSTADO]
 7. racao-premium-x-economica [POSTADO]
 8. ultrassom-x-raio-x [POSTADO]
-9. ansiedade-separacao
+9. ansiedade-separacao [POSTADO]
 10. carrapato-inverno
 11. emergencia-pode-esperar
 12. estresse-gatos
