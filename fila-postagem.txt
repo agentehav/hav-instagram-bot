@@ -15,7 +15,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 12. estresse-gatos [POSTADO]
 13. otite-orelha-caida [POSTADO]
 14. picada-escorpiao-cobra [POSTADO]
-15. plantas-domesticas
+15. plantas-domesticas [POSTADO]
 16. recuperacao-pos-cirurgica
 17. socializacao-filhote
 18. vacina-felino
