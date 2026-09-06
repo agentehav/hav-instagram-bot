@@ -18,7 +18,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 15. plantas-domesticas [POSTADO]
 16. recuperacao-pos-cirurgica [POSTADO]
 17. socializacao-filhote [POSTADO]
-18. vacina-felino
+18. vacina-felino [POSTADO]
 19. vacina-gripe-canina
 20. vacinacao-filhote
 21. vermifugacao-filhotes-adultos
