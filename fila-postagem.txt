@@ -19,7 +19,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 16. recuperacao-pos-cirurgica [POSTADO]
 17. socializacao-filhote [POSTADO]
 18. vacina-felino [POSTADO]
-19. vacina-gripe-canina
+19. vacina-gripe-canina [POSTADO]
 20. vacinacao-filhote
 21. vermifugacao-filhotes-adultos
 22. alimentos-toxicos
