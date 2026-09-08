@@ -20,7 +20,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 17. socializacao-filhote [POSTADO]
 18. vacina-felino [POSTADO]
 19. vacina-gripe-canina [POSTADO]
-20. vacinacao-filhote
+20. vacinacao-filhote [POSTADO]
 21. vermifugacao-filhotes-adultos
 22. alimentos-toxicos
 23. braquicefalico-calor
