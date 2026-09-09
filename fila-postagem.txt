@@ -21,7 +21,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 18. vacina-felino [POSTADO]
 19. vacina-gripe-canina [POSTADO]
 20. vacinacao-filhote [POSTADO]
-21. vermifugacao-filhotes-adultos
+21. vermifugacao-filhotes-adultos [POSTADO]
 22. alimentos-toxicos
 23. braquicefalico-calor
 24. dermatite-atopica
