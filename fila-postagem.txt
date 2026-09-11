@@ -29,3 +29,13 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 26. golpe-calor-carro
 27. troca-racao
 28. carrossel-mitos-vacina
+29. agressividade-repentina
+30. antirrabica
+31. caroco-nodulo
+32. checkup-geriatrico
+33. dieta-terapeutica-renal
+34. lambedura-excessiva
+35. pulga-casa
+36. reforco-vacinal-anual
+37. torcao-gastrica
+38. vacinacao-filhote-resgatado
