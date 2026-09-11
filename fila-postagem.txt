@@ -23,7 +23,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 20. vacinacao-filhote [POSTADO]
 21. vermifugacao-filhotes-adultos [POSTADO]
 22. alimentos-toxicos [POSTADO]
-23. braquicefalico-calor
+23. braquicefalico-calor [POSTADO]
 24. dermatite-atopica
 25. gestacao-parto
 26. golpe-calor-carro
