@@ -25,7 +25,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 22. alimentos-toxicos [POSTADO]
 23. braquicefalico-calor [POSTADO]
 24. dermatite-atopica [POSTADO]
-25. gestacao-parto
+25. gestacao-parto [POSTADO]
 26. golpe-calor-carro
 27. troca-racao
 28. carrossel-mitos-vacina
