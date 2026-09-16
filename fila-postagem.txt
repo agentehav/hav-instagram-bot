@@ -28,7 +28,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 25. gestacao-parto [POSTADO]
 26. golpe-calor-carro [POSTADO]
 27. troca-racao [POSTADO]
-28. carrossel-mitos-vacina
+28. carrossel-mitos-vacina [POSTADO]
 29. agressividade-repentina
 30. antirrabica
 31. caroco-nodulo
