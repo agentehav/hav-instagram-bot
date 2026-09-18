@@ -30,7 +30,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 27. troca-racao [POSTADO]
 28. carrossel-mitos-vacina [POSTADO]
 29. agressividade-repentina [POSTADO]
-30. antirrabica
+30. antirrabica [POSTADO]
 31. caroco-nodulo
 32. checkup-geriatrico
 33. dieta-terapeutica-renal
