@@ -32,7 +32,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 29. agressividade-repentina [POSTADO]
 30. antirrabica [POSTADO]
 31. caroco-nodulo [POSTADO]
-32. checkup-geriatrico
+32. checkup-geriatrico [POSTADO]
 33. dieta-terapeutica-renal
 34. lambedura-excessiva
 35. pulga-casa
