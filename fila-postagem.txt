@@ -34,7 +34,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 31. caroco-nodulo [POSTADO]
 32. checkup-geriatrico [POSTADO]
 33. dieta-terapeutica-renal [POSTADO]
-34. lambedura-excessiva
+34. lambedura-excessiva [POSTADO]
 35. pulga-casa
 36. reforco-vacinal-anual
 37. torcao-gastrica
