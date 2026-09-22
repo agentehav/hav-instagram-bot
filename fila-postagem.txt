@@ -39,3 +39,6 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 36. reforco-vacinal-anual
 37. torcao-gastrica
 38. vacinacao-filhote-resgatado
+39. engasgo
+40. castracao
+41. anestesia-pet-idoso
