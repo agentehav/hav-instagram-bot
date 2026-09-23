@@ -35,7 +35,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 32. checkup-geriatrico [POSTADO]
 33. dieta-terapeutica-renal [POSTADO]
 34. lambedura-excessiva [POSTADO]
-35. pulga-casa
+35. pulga-casa [POSTADO]
 36. reforco-vacinal-anual
 37. torcao-gastrica
 38. vacinacao-filhote-resgatado
