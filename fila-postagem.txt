@@ -37,7 +37,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 34. lambedura-excessiva [POSTADO]
 35. pulga-casa [POSTADO]
 36. reforco-vacinal-anual [POSTADO]
-37. torcao-gastrica
+37. torcao-gastrica [POSTADO]
 38. vacinacao-filhote-resgatado
 39. engasgo
 40. castracao
