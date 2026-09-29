@@ -40,5 +40,5 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 37. torcao-gastrica [POSTADO]
 38. vacinacao-filhote-resgatado [POSTADO]
 39. engasgo [POSTADO]
-40. castracao
+40. castracao [POSTADO]
 41. anestesia-pet-idoso
