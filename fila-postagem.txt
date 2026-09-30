@@ -41,4 +41,4 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 38. vacinacao-filhote-resgatado [POSTADO]
 39. engasgo [POSTADO]
 40. castracao [POSTADO]
-41. anestesia-pet-idoso
+41. anestesia-pet-idoso [POSTADO]
