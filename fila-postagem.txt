@@ -1,44 +1,10 @@
 FILA DE POSTAGEM — Hospital Amigo Veterinário (1x/dia, 18h)
 Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 
-1. checklist-filhote [POSTADO]
-2. cirurgia-urgencia-eletiva [POSTADO]
-3. exame-pre-anestesico [POSTADO]
-4. gato-idoso [POSTADO]
-5. hemograma-rotina [POSTADO]
-6. obesidade [POSTADO]
-7. racao-premium-x-economica [POSTADO]
-8. ultrassom-x-raio-x [POSTADO]
-9. ansiedade-separacao [POSTADO]
-10. carrapato-inverno [POSTADO]
-11. emergencia-pode-esperar [POSTADO]
-12. estresse-gatos [POSTADO]
-13. otite-orelha-caida [POSTADO]
-14. picada-escorpiao-cobra [POSTADO]
-15. plantas-domesticas [POSTADO]
-16. recuperacao-pos-cirurgica [POSTADO]
-17. socializacao-filhote [POSTADO]
-18. vacina-felino [POSTADO]
-19. vacina-gripe-canina [POSTADO]
-20. vacinacao-filhote [POSTADO]
-21. vermifugacao-filhotes-adultos [POSTADO]
-22. alimentos-toxicos [POSTADO]
-23. braquicefalico-calor [POSTADO]
-24. dermatite-atopica [POSTADO]
-25. gestacao-parto [POSTADO]
-26. golpe-calor-carro [POSTADO]
-27. troca-racao [POSTADO]
-28. carrossel-mitos-vacina [POSTADO]
-29. agressividade-repentina [POSTADO]
-30. antirrabica [POSTADO]
-31. caroco-nodulo [POSTADO]
-32. checkup-geriatrico [POSTADO]
-33. dieta-terapeutica-renal [POSTADO]
-34. lambedura-excessiva [POSTADO]
-35. pulga-casa [POSTADO]
-36. reforco-vacinal-anual [POSTADO]
-37. torcao-gastrica [POSTADO]
-38. vacinacao-filhote-resgatado [POSTADO]
-39. engasgo [POSTADO]
-40. castracao [POSTADO]
-41. anestesia-pet-idoso [POSTADO]
+1. convulsao-pet
+2. filariose
+3. giardiase
+4. leishmaniose
+5. micose
+6. otohematoma
+7. sangramento-intenso
