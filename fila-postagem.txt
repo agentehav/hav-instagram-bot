@@ -3,7 +3,7 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 
 1. convulsao-pet [POSTADO]
 2. filariose [POSTADO]
-3. giardiase
+3. giardiase [POSTADO]
 4. leishmaniose
 5. micose
 6. otohematoma
