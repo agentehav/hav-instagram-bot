@@ -6,5 +6,5 @@ Ordem de publicação. Marcar [POSTADO] após publicar com sucesso.
 3. giardiase [POSTADO]
 4. leishmaniose [POSTADO]
 5. micose [POSTADO]
-6. otohematoma
+6. otohematoma [POSTADO]
 7. sangramento-intenso
